@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "FirstGame",
+"companyName": "dyr",
+"productName": "Adventure in Sky City",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "Build.wasm.framework.unityweb",
